@@ -1,0 +1,23 @@
+.register_container{
+    text-align: center;
+    border-width:  10px ;
+    border-style: solid;
+    border-color: blueviolet;
+    padding: 15px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.reg{
+    background-color: rgb(233, 35, 94);
+    height: 30px;
+    width:200px;
+color: bisque;
+border-radius: 5px;
+}
+
+.registerip{
+    height: 30px;
+    width:200px;
+
+border-radius: 5px;
+}
